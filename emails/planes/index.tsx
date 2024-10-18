@@ -46,9 +46,9 @@ export const StripeWelcomeEmail = () => (
             Solo debes seguir estos sencillos pasos:
           </Text>
           <Text style={paragraph}>
-          1. Haz clic en el siguiente enlace: [Link de Pago]
-          2. Introduce los datos de tu medio de pago.
-          3. Una vez completado el proceso, serás redirigido automáticamente a tu sesión en Bookforce.io
+          1. Haz clic en el siguiente enlace: [Link de Pago]<br />
+          2. Introduce los datos de tu medio de pago.<br />
+          3. Una vez completado el proceso, serás redirigido automáticamente a tu sesión en Bookforce.io<br />
           </Text>
           <br />
           <Text style={paragraph}>
@@ -132,7 +132,7 @@ const headingTable = {
   fontWeight: "bold",
   borderRadius: "5px 5px 0 0",
   color: "#fff",
-  fontWeight: "400"
+
 };
 
 const cellTableColumn = {

@@ -166,7 +166,7 @@ const headingTable = {
   fontWeight: "bold",
   borderRadius: "5px 5px 0 0",
   color: "#fff",
-  fontWeight: "400"
+ 
 };
 
 const cellTableColumn = {
